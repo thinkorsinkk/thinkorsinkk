@@ -2,6 +2,6 @@
 
 ![think](https://github-readme-stats.vercel.app/api?username=thinkorsinkk&show_icons=true&theme=radical)
 
-discord: thinkorsinkk#6372
-telegram: thinkorsinkk
-email: fossthinker@tutanota.com
+discord: thinkorsinkk#6372\n
+telegram: thinkorsinkk\n
+email: fossthinker@tutanota.com\n
